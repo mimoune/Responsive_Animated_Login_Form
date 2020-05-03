@@ -5,5 +5,4 @@ this is simple responsive animated login Form constructed from beautiful design
 Case 1: 
 =======
 Inline-style: 
->>>>>>> 34de474c7c8e11475bae2f331ec0c5a6323074db
-![alt text](https://github.com/mimoune/Responsive_Animated_Login_Form/blob/master/img/wave.png "Logo Title Text 1")
+![alt text](https://github.com/mimoune/Responsive_Animated_Login_Form/blob/master/doc/img/Screen%20Shot%202020-05-03%20at%2001.09.15.png "Logo Title Text 1")
